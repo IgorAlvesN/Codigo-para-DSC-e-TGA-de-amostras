@@ -1,1 +1,1 @@
-Dois códigos da matéria de Técnicas Experimentais I: Um para DSC e outro para TGA de duas amostras diferentes
+Dois códigos da matéria de Técnicas Experimentais I: Um para DSC e outro para TGA de duas amostras diferentes. Foram feitos em formato compatível com Jupyter Notebook por ser bastante útil ser rodado em etapas, de modo que cada informação desejada pode ser coletada separadamente e os erros encontrados durante a escrita 99% das vezes eram locais, sem a necessidade de rodar os códigos inteiros novamente.
