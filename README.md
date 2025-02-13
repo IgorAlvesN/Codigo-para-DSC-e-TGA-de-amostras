@@ -10,3 +10,5 @@ Os dados do aquecimento a serem consumidos devem estar em formato CSV seguindo a
 Os dados do aquecimento a serem consumidos devem estar em formato CSV seguindo a seguinte ordem das colunas:
 
 Índice | Tempo | Temperatura do Forno | Temperatura da Amostra | TG | Fluxo de Calor
+
+Para informações sobre as funções do módulo __func.py__, verificar o arquivo __Documentação.txt__
