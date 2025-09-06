@@ -39,14 +39,14 @@ def reta_dado_pontos(x1,y1,x2,y2):          #calcula os coeficientes da reta dad
     coeficientes=[m,c]
     return coeficientes
 
-def linhabaseonset(intervalo_ref,intervalo_alvo,indice,valor=0):   #encontra a linha base do onset
+def linhabaseonset(intervalo_ref,intervalo_alvo,indice,valor=0):   #encontra a linha base do onset (último momento em que a derivada é zero)
     while intervalo_ref[indice].values[0]<valor:
         indice-=1
     
     valor=[intervalo_alvo[indice],indice]
     return valor
 
-def linhabaseendset(intervalo_ref,intervalo_alvo,indice,valor=0):   #encontra a linha base do endset
+def linhabaseendset(intervalo_ref,intervalo_alvo,indice,valor=0):   #encontra a linha base do endset (primeiro momento em que a derivada volta a ser zero)
     while intervalo_ref[indice].values[0]<valor:
         indice+=1
     

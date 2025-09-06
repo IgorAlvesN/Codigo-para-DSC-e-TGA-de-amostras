@@ -68,7 +68,7 @@ Maior valor de y da reta
 Coordenada x da reta (só tem um valor já que é uma reta vertical)
 
 ## **app.func.linhabaseonset(intervalo_ref**=none,**intervalo_alvo**=none,**indice**=none,**valor**=0)
-Retorna a temperatura e seu respectivo índice no conjunto de dados. Essa temperatura equivale aquela em que o evento começou a acontecer.
+Retorna a temperatura e seu respectivo índice no conjunto de dados. Essa temperatura equivale aquela em que o evento começou a acontecer (a derivada deixou de ser zero)
 
 ### **Parâmetros:**
 **intervalo_ref : list**\

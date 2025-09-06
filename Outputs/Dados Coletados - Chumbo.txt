@@ -1,0 +1,8 @@
+Taxa de aquecimento: 0.170262
+Coeficiente Linear: 17.104600
+Temperatura de início: 324.605414 °C
+Temperatura de onset: 326.528279 °C
+Temperatura de pico: 331.426092 °C
+Temperatura de endset: 334.404371 °C
+Temperatura final: 332.266060 °C
+Entalpia da reação: 24.985136 J/g

@@ -1,0 +1,25 @@
+Taxa de aquecimento: 0.167331
+Coeficiente Linear: 20.307256
+Perda de de massa no evento 1: 28.246041 %
+Perda de de massa no evento 2: 6.947864 %
+Perda de de massa no evento 3: 31.841810 %
+*** Evento 1 ***
+Temperatura de início: 63.460237 °C
+Temperatura de onset: 93.407166 °C
+Temperatura de pico: 140.395474 °C
+Temperatura de endset: 152.390195 °C
+Temperatura final: 174.359842 °C
+
+*** Evento 2 ***
+Temperatura de início: 212.222315 °C
+Temperatura de onset: 234.870779 °C
+Temperatura de pico: 253.078739 °C
+Temperatura de endset: 262.553789 °C
+Temperatura final: 282.133043 °C
+
+*** Evento 3 ***
+Temperatura de início: 591.594884 °C
+Temperatura de onset: 701.555341 °C
+Temperatura de pico: 802.513152 °C
+Temperatura de endset: 811.408873 °C
+Temperatura final: 751.518075 °C
