@@ -10,6 +10,7 @@
   O programa retorna:
 
   A Taxa de aquecimento do forno
+  
   O Gráfico fluxo de calor por temperatura
   As temperaturas de onset,inicio,endset,fim,pico
   O Gráfico DSC pelo tempo
