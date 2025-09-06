@@ -12,8 +12,11 @@
   A Taxa de aquecimento do forno
   
   O Gráfico fluxo de calor por temperatura
+  
   As temperaturas de onset,inicio,endset,fim,pico
+  
   O Gráfico DSC pelo tempo
+  
   A Entalpia da reação
 
 ### **Código da análise do Sulfato de Cobre (Sulfato de Cobre.py)**
@@ -24,8 +27,11 @@
   O programa retorna:
 
   Taxa de aquecimento
+  
   O gráfico massa da amostra pela temperatura
+  
   As perdas de massa dos eventos
+  
   As Temperaturas de onset,inicio,endset,fim e pico dos eventos
   
   
