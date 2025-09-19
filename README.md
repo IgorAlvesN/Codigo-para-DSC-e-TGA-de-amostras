@@ -35,5 +35,5 @@
   As Temperaturas de onset,inicio,endset,fim e pico dos eventos
   
   
-  Para informações sobre as funções do módulo __func.py__, verificar o arquivo __Documentação-me.md__
+  Para informações sobre as funções do módulo __func.py__, verificar o arquivo [__Documentação-me.md__](Documentação-me.md)
 
