@@ -1,6 +1,6 @@
   Dois códigos da matéria de Técnicas Experimentais I: Um para DSC e outro para TGA de duas amostras diferentes. Foram feitos em formato compatível com Jupyter Notebook por ser bastante útil ser rodado em etapas, de modo que cada informação desejada pode ser coletada separadamente e os erros encontrados durante a escrita 99% das vezes eram locais, sem a necessidade de rodar os códigos inteiros novamente.
 
-  É necessário os pacotes pandas, matplotlib, numpy e sklearn para correto funcionamento do código. Modo de usar: com o arquivo de dados corretamente estruturados (informações sobre isso abaixo), basta colocar o endereço em "path_arquivo" e o endereço para onde os plots serão exportados em "path_imagens" que o programa gera tudo sozinho.
+Modo de usar: com o arquivo de dados corretamente estruturados (informações sobre isso abaixo), basta colocar o endereço em "path_arquivo". Os dados úteis serão exportados na pasta Outputs.
 
 ### **Código da análise do Chumbo (Chumbo.py)**
   Os dados do aquecimento a serem consumidos devem estar em formato CSV seguindo a seguinte ordem das colunas:
