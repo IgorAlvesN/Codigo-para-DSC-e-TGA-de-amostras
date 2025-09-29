@@ -35,5 +35,5 @@ Modo de usar: com o arquivo de dados corretamente estruturados (informações so
   As Temperaturas de onset,inicio,endset,fim e pico dos eventos
   
   
-  Para informações sobre as funções do módulo __func.py__, verificar o arquivo [__Documentação-me.md__](Documentação-me.md)
+  Para informações sobre as funções do módulo __func.py__, verificar o arquivo [__Documentação.md__](Documentação.md)
 
