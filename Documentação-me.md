@@ -38,7 +38,7 @@ Coordenada X do segundo ponto
 **y2 : float**\
 Coordenada Y do segundo ponto
 
-## **app.func.picolocal(data**=none,**type**=none,**start**=none,**end**=none)
+## **app.func.pico_local(data**=none,**type**=none,**start**=none,**end**=none)
 Retorna um pico (máximo ou mínimo) no intervalo selecionado
 
 ### **Parâmetros:**
@@ -67,7 +67,7 @@ Maior valor de y da reta
 **x_value : float**\
 Coordenada x da reta (só tem um valor já que é uma reta vertical)
 
-## **app.func.linhabaseonset(intervalo_ref**=none,**intervalo_alvo**=none,**indice**=none,**valor**=0)
+## **app.func.linha_base_onset(intervalo_ref**=none,**intervalo_alvo**=none,**indice**=none,**valor**=0)
 Retorna a temperatura e seu respectivo índice no conjunto de dados. Essa temperatura equivale aquela em que o evento começou a acontecer (a derivada deixou de ser zero)
 
 ### **Parâmetros:**
@@ -83,7 +83,7 @@ Intervalo com a variável desejada a ser obtida no ponto do início do evento, a
 **valor : int, default 0**\
 Valor a ser encontrado no intervalo de referência, finalizando a pesquisa
 
-## **app.func.linhabaseendset(intervalo_ref**=none,**intervalo_alvo**=none,**indice**=none,**valor**=0)
+## **app.func.linha_base_endset(intervalo_ref**=none,**intervalo_alvo**=none,**indice**=none,**valor**=0)
 Retorna a temperatura e seu respectivo índice no conjunto de dados. Essa temperatura equivale aquela em que o evento terminou de acontecer.
 
 ### **Parâmetros:**
